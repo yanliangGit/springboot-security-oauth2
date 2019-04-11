@@ -11,7 +11,7 @@
     <groupId>com.gf</groupId>
     <artifactId>springboot-security-oauth2</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>springboot-security</name>
+    <name>springboot-security</name> 
     <description>Demo project for Spring Boot</description>
 
     <properties>
